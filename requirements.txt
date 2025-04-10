@@ -1,0 +1,11 @@
+kaggle
+jupyter
+matplotlib
+dagshub
+scikit-learn
+numpy
+pandas
+mlflow
+imblearn
+seaborn
+joblib
